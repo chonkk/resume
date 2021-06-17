@@ -1,6 +1,6 @@
 <table align="left" style="text-align:center;width:100%;">
 		<tr>
-			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS">홈</a></td>
+			<td ><a href="https://chonkk.github.io/resume">홈</a></td>
 			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/RFI.md">요구사항</a></td>
 			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/Component.md">컴포넌트</a></td>
 			<td style="width:60px;border-right:1px solid #bbb;"><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/DBScript">DBScript</a></td>
@@ -8,21 +8,6 @@
 			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/EIS.md">외부연동</a></td>
 			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/History.md">history</a></td>
 		</tr>
-	<tr><td colspan="6"></td></tr>
-	<tr>
-		<td>
-			<a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/%EC%84%A4%EA%B3%84/puml">■ PUML</a>
-		</td>
-		<td >
-			<a href="https://drive.google.com/drive/folders/1kC23wJX7VT7B9Qves9Eqp3N7Vmb5XVa8?usp=sharing">■ 공유폴더</a>
-		</td>
-		<td >
-			<a href="https://docs.google.com/spreadsheets/d/1tCLKOlXSUyT5yb5fg2AIVE4cFwJe6CWttkKIGlVK8As/edit?usp=sharing">■ TFT 포털페이지</a>
-		</td>
-		<td>
-			<a href="https://docs.google.com/spreadsheets/d/1jyyoCN6dXDKS0JkdjK4z-2ySTv7jUde4btfnKFFiMGk">■ PVS 일정</a>
-		</td>
-	</tr>
 </table>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>
 
 ## 천광규
