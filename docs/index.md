@@ -4,6 +4,7 @@
 			<td ><a href="https://chonkk.github.io/resume/blog/menu1.html">menu1</a></td>
 			<td ><a href="https://github.com/chonkk" target="_blank">Github</a></td>
 			<td ><a href="https://chonkk.blog.me" target="_blank">Blog</a></td>
+			<td ><a href="https://github.com/chonkk/resume/edit/main/docs/index.md" target="_blank">edit</a></td>
 		</tr>
 </table><br/><br/>
 
