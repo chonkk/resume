@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-name: "이력서 - 천광규"
-title: null
+exclude: true
