@@ -18,8 +18,8 @@
     <p>
 	<table style="width:100%;">
     <tr>
-	    <th style="width:10%;text-align:center;">Period</th>
-	    <th style="width:10%;text-align:center;">Workplace</th>
+	    <th style="width:16%;text-align:center;">Period</th>
+	    <th style="width:22%;text-align:center;">Workplace</th>
 	    <th style="text-align:center;">Work Experience</th>
 </tr>
 <tr>
