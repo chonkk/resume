@@ -15,7 +15,7 @@
 
 <details open>
 	<summary>Summary</summary>
-    <p>
+    <p style="font-size:8pt;">
 	<table style="width:100%;">
     <tr>
 	    <th style="width:16%;text-align:center;">Period</th>
