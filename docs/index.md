@@ -2,11 +2,10 @@
 		<tr>
 			<td ><a href="https://github.com/chonkk" target="_blank">Github</a></td>
 			<td ><a href="https://chonkk.blog.me" target="_blank">Blog</a></td>
-			<td ><a href="https://github.com/chonkk/resume/edit/main/docs/index.md" target="_blank">edit</a></td>
 		</tr>
 </table><br/><br/>
 
-## resume
+## Resume
 
 16년차 소프트웨어 개발자입니다.
 지금부터 제 소개를 하도록 하겠습니다.
