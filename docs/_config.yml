@@ -1,5 +1,2 @@
 theme: minima
-title:null
-header_pages:null
-exclude:
-- header.html
+exclude: true
