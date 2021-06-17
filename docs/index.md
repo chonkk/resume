@@ -36,13 +36,13 @@
     </tr>
     <tr>
       <td style="text-align:center;font-size:xx-small;">2005-02-24<br/>~<br/>2003-03-03</td>
-      <td>인하대학교대학원</td>
-      <td>전자공학과 : 정보공학전공(석사과정)</td>
+      <td>인하대학교<br/>대학원</td>
+      <td>전자공학과 : 정보공학전공(석사과정)<br/>C++ MFC, DRM, WaterMarking, ImageProcess</td>
     </tr>
     <tr>
       <td style="text-align:center;font-size:xx-small;">2003-02-24<br/>~<br/>1996-03-04</td>
       <td>인하대학교</td>
-      <td>전자공학과 : 전자공학전공(학사과정)</td>
+      <td>전자공학과 : 전자공학전공(학사과정)<br/>C++ MFC</td>
     </tr>
 	</table>
     </p>
