@@ -2,3 +2,4 @@ theme: jekyll-theme-dinky
 source: ./src
 include: [./docs,./src]
 encoding: UTF-8
+title: 이력서 - 천광규
