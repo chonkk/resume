@@ -1,11 +1,12 @@
 <table align="left" style="text-align:center;width:100%;">
 		<tr>
 			<td ><a href="https://chonkk.github.io/resume/">Home</a></td>
-			<td ><a href="https://github.com/chonkk" target="_blank">github.com/chonkk</a></td>
+			<td ><a href="https://github.com/chonkk" target="_blank">github</a></td>
+			<td ><a href="https://chonkk.blog.me" target="_blank">blog</a></td>
 		</tr>
 </table><br/><br/>
 
-## 천광규
+## resume
 
 16년차 소프트웨어 개발자입니다.
 지금부터 제 소개를 하도록 하겠습니다.
