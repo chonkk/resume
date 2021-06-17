@@ -16,7 +16,7 @@
 <details open>
 	<summary>Summary</summary>
     <p style="font-size:8pt;">
-	<table style="width:100%;style="text-align:center;font-size:small;"">
+	<table style="width:100%;font-size:small;">
     <tr>
 	    <th style="width:16%;text-align:center;">Period</th>
 	    <th style="width:22%;text-align:center;">Workplace</th>
@@ -36,7 +36,7 @@
 	     Embedded Linux, C 언어, 펌웨어</td>
     </tr>
     <tr>
-      <td style="text-align:center;font-size:small;">2003-03-03<br/>~<br/>2005-02-24</td>
+      <td style="text-align:center;">2003-03-03<br/>~<br/>2005-02-24</td>
       <td>인하대학교대학원</td>
       <td>전자공학과 : 정보공학전공(석사과정)</td>
     </tr>
