@@ -1,12 +1,7 @@
 <table align="left" style="text-align:center;width:100%;">
 		<tr>
-			<td ><a href="https://chonkk.github.io/resume">홈</a></td>
-			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/RFI.md">요구사항</a></td>
-			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/Component.md">컴포넌트</a></td>
-			<td style="width:60px;border-right:1px solid #bbb;"><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/DBScript">DBScript</a></td>
-			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/Testbed.md">테스트환경</a></td>
-			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/EIS.md">외부연동</a></td>
-			<td ><a href="https://github.com/castisdev/DLIVE.OTT-PVS/tree/main/document/History.md">history</a></td>
+			<td ><a href="https://chonkk.github.io/resume/">Home</a></td>
+			<td ><a href="https://github.com/chonkk">github.com/chonkk</a></td>
 		</tr>
 </table>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>
 
