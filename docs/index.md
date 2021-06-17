@@ -11,8 +11,9 @@
 지금부터 제 소개를 하도록 하겠습니다.
 
 ### Work Experience
+
 <details open>
-	<summary>Work Experience Summary</summary>
+	<summary>Summary</summary>
     <p>
 	<table style="width:100%;">
     <tr><th style="width:15%;">Period</th><th style="width:20%;">Workplace</th><th style="width:30%;">Work Experience</th><th >Topics</th></tr>
