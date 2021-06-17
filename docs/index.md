@@ -1,4 +1,5 @@
 
+
 ## 천광규
 
 16년차 소프트웨어 개발자입니다.
@@ -6,7 +7,7 @@
 
 ### Work Experience
 <details open>
-	<summary>요약</summary>
+	<summary>Work Experience Summary</summary>
     <p>
 	<table style="width:100%;">
     <tr><th style="width:15%;">Period</th><th style="width:20%;">Workplace</th><th style="width:30%;">Work Experience</th><th >Topics</th></tr>
@@ -37,20 +38,7 @@
 	</table>
     </p>
 </details>
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
