@@ -5,3 +5,4 @@
 
 ### 업무중 자주 등장하는 축약어
  - MDC(Mapped Diagnostic Context)
+ - JNDI (Java Naming and Directory Interface) 
