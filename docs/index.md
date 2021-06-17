@@ -9,12 +9,12 @@
 	<summary>요약</summary>
     <p>
 	<table style="width:98%;border: 1px solid #b00beb;">
-    <tr><th style="width:15%;">Period</th><th style="width:15%;">Workplace</th><th style="width:15%;">Work Experience</th><th >Topics</th></tr>
+    <tr><th style="width:15%;">Period</th><th style="width:20%;">Workplace</th><th style="width:30%;">Work Experience</th><th >Topics</th></tr>
 		<tr>
       <td>2007-08-20<br/>~</td>
       <td>(주)캐스트이즈</td>
       <td>광고 사업부 : 소프트웨어 개발 팀장</td>
-      <td>: C++ boost, ftp, MS-SQL, Oracle, SQLite, MySQL, ODBC, DLL 플러그인, libCurl, Linux, Net-SNMP, OLE DB,spring-boot, thymeleaf, maven, requirejs, webjars, startbootstrap-sb-admin-2,mustachejs, Tomcat8.5, MySQL</td>
+      <td>: C++ boost, MS-SQL, Oracle, SQLite, MySQL, Linux, spring-boot, thymeleaf, maven, requirejs, webjars, Tomcat8.5</td>
     </tr>
     <tr>
       <td>2005-06-07<br/>~<br/>2007-08-17</td>
