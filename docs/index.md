@@ -61,8 +61,8 @@
 <tr>
       <td style="text-align:center;font-size:xx-small;">Now<br/>~<br/>2007-08-20</td>
       <td>
+	      통계/모니터링용 대용량 로그 수집 프로그램 개발
 	      <UL>
-		      <LI>프로젝트: 통계/모니터링용 대용량 로그 수집 프로그램 개발</LI>
 	      <LI>업무: 로그 수집 플러그인 개발, DB 스키마 구성</LI>
 	      <LI>Libs: C++ boost, ftp, MS-SQL, Oracle, SQLite, MySQL, ODBC, DLL plugin, libCurl, Linux, Net-SNMP, OLE DB</LI>
 	      <LI>성과: 리눅스 컴파일/디버깅 가능, DB 스키마 구성 가능, C++ 소캣통신 서버 구성 가능</LI>
