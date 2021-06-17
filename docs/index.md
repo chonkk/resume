@@ -17,8 +17,13 @@
 	<summary>Summary</summary>
     <p>
 	<table style="width:100%;">
-    <tr><th style="width:300px;">Period</th><th style="width:20%;">Workplace</th><th style="width:30%;">Work Experience</th><th >Topics</th></tr>
-		<tr>
+    <tr>
+	    <th style="width:16%;text-align:center;">Period</th>
+	    <th style="width:20%;text-align:center;">Workplace</th>
+	    <th style="width:30%;text-align:center;">Work Experience</th>
+	    <th style="text-align:center;">Topics</th>
+</tr>
+<tr>
       <td>2007-08-20<br/>~</td>
       <td>(주)캐스트이즈</td>
       <td>광고 사업부 : 소프트웨어 개발 팀장</td>
