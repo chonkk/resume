@@ -1,2 +1,4 @@
 theme: minima
 title: "천광규"
+pages:
+- ./pages/index2.html
