@@ -25,11 +25,11 @@
       <td style="text-align:center;font-size:xx-small;">Now<br/>~<br/>2007-08-20</td>
       <td>(주)캐스트이즈</td>
       <td>
-	      광고사업부: 소프트웨어개발팀장<br/>
-	      생산지원사업부: 생산인<br/>
-	      감마사업부: 생산총괄<br/>
+	      광고사업부: 소프트웨어개발팀장,&nbsp;
+	      생산지원사업부: 생산인,&nbsp;
+	      감마사업부: 생산총괄,&nbsp;
 	      A랩: A2 팀장<br/>
-	      서비스프레임워크팀: 책임연구원
+	      서비스프레임워크팀: 책임연구원<br/>
 	      C++ boost, MS-SQL, Oracle, SQLite, MySQL, Linux, spring-boot, thymeleaf, maven, requirejs, webjars, Tomcat8.5
 	</td>
     </tr>
