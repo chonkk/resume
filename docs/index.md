@@ -1,7 +1,5 @@
 <table align="right" style="text-align:center;width:50%;">
 		<tr>
-			<td ><a href="https://chonkk.github.io/resume/blog/menu1">menu1</a></td>
-			<td ><a href="https://chonkk.github.io/resume/blog/menu1.html">menu1</a></td>
 			<td ><a href="https://github.com/chonkk" target="_blank">Github</a></td>
 			<td ><a href="https://chonkk.blog.me" target="_blank">Blog</a></td>
 			<td ><a href="https://github.com/chonkk/resume/edit/main/docs/index.md" target="_blank">edit</a></td>
@@ -19,7 +17,7 @@
 	<summary>Summary</summary>
     <p>
 	<table style="width:100%;">
-    <tr><th style="width:15%;">Period</th><th style="width:20%;">Workplace</th><th style="width:30%;">Work Experience</th><th >Topics</th></tr>
+    <tr><th style="width:300px;">Period</th><th style="width:20%;">Workplace</th><th style="width:30%;">Work Experience</th><th >Topics</th></tr>
 		<tr>
       <td>2007-08-20<br/>~</td>
       <td>(주)캐스트이즈</td>
@@ -48,18 +46,3 @@
     </p>
 </details>
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chonkk/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
