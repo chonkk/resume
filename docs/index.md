@@ -2,9 +2,29 @@
 ## 안녕하세요. 천광규입니다.
 
 16년차 소프트웨어 개발자입니다.
+지금부터 제 소개를 하도록 하겠습니다.
 
 ### Work Experience
-
+<details open>
+	<summary>요약</summary>
+    <p>
+	<table style="width:98%;">
+    <tr><th>Period</th><th>Company</th><th>Experience</th><th>Topics</th></tr>
+		<tr>
+      <td>2007-08-20 ~</td>
+      <td>(주)캐스트이즈</td>
+      <td>광고 사업부 : 소프트웨어 개발 팀장</td>
+      <td>: C++ boost, ftp, MS-SQL, Oracle, SQLite, MySQL, ODBC, DLL 플러그인, libCurl, Linux, Net-SNMP, OLE DB,spring-boot, thymeleaf, maven, requirejs, webjars, startbootstrap-sb-admin-2,mustachejs, Tomcat8.5, MySQL</td>
+    </tr>
+		<tr>
+      <td>2005-06-07 ~ 2007-08-17</td>
+      <td>(주)이레전자산업</td>
+      <td>DTV개발2팀 : 연구원</td>
+      <td>Embedded Linux, C 언어, 펌웨어</td>
+    </tr>
+	</table>
+    </p>
+</details>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
