@@ -23,7 +23,7 @@
 	    <th style="text-align:center;">Work Experience</th>
 </tr>
 <tr>
-      <td style="text-align:center;">~<br/>2007-08-20</td>
+      <td style="text-align:center;">Now<br/>~<br/>2007-08-20</td>
       <td>(주)캐스트이즈</td>
       <td>광고 사업부 : 소프트웨어 개발 팀장<br/>
 	      C++ boost, MS-SQL, Oracle, SQLite, MySQL, Linux, spring-boot, thymeleaf, maven, requirejs, webjars, Tomcat8.5
