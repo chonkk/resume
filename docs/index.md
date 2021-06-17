@@ -8,7 +8,7 @@
 <details open>
 	<summary>요약</summary>
     <p>
-	<table style="width:98%;">
+	<table style="width:98%;border: 1px solid #b00beb;">
     <tr><th style="width:15%;">Period</th><th style="width:15%;">Workplace</th><th style="width:15%;">Work Experience</th><th >Topics</th></tr>
 		<tr>
       <td>2007-08-20<br/>~</td>
