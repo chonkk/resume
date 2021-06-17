@@ -3,7 +3,7 @@
 			<td ><a href="https://chonkk.github.io/resume/">Home</a></td>
 			<td ><a href="https://github.com/chonkk">github.com/chonkk</a></td>
 		</tr>
-</table>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>
+</table><br/><br/>
 
 ## 천광규
 
