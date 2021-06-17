@@ -5,7 +5,7 @@
 		</tr>
 </table><br/><br/>
 
-## Resume
+## Resume - 2021-06-18, 
 
 안녕하세요. 16년차 소프트웨어 개발자 천광규입니다.<br/>
 이<font style="color:#900;">세상에 안되는 일은 없다는 신념</font>으로 역경을 이겨내며, 개발에 매진하는 중입니다.<br/>
@@ -59,7 +59,66 @@
 	    <th style="text-align:center;">Work Experience</th>
 </tr>
 <tr>
-      <td style="text-align:center;font-size:xx-small;">Now<br/>~<br/>2007-08-20</td>
+      <td style="text-align:center;font-size:xx-small;">2016-03-22<br/>~<br/>2016-08-01</td>
+      <td>
+	      [공통] ServiceDeployServer Legacy 연관성 제거
+	      <UL>
+	      <LI>업무: 기초 설계/상세 설계, 개발자 관리, 대용량 데이터 수집/정합, API 서버 구성, 서버 연동</LI>
+	      <LI>Libs:Java, MS-SQL, MySQL, Apache Tomcat, Spring MVC, Linux, JDBC, Hibernate</LI>
+	      <LI>성과: 리팩토링, 레거시 시스템 업그레이드, 대용량 데이터 처리, DB 쿼리 성능 개선</LI>
+	      </UL>
+	</td>
+    </tr>
+<tr>
+<tr>
+      <td style="text-align:center;font-size:xx-small;">2016-01-04<br/>~<br/>2016-04-07</td>
+      <td>
+	      [HCN] 2015 HDUI 고도화
+	      <UL>
+	      <LI>업무: 요구사항 분석/협의, 상세 설계, 일정 관리, 개발자 관리, 성인컨텐트 필터링, 스마트폰/쿠폰/TVPoint 결제 시스템 구성, 구매 이력 연동</LI>
+	      <LI>Libs:Java, JavaScript, MS-SQL, MySQL, Tiles, Apache Tomcat, Spring MVC, Linux, JDBC, Hibernate, Ajax</LI>
+	      <LI>성과: 백오피스 전반적인 서비스 흐름 파악, 결제 시스템 연동</LI>
+	      </UL>
+	</td>
+    </tr>
+<tr>
+<tr>
+      <td style="text-align:center;font-size:xx-small;">2010-12-13<br/>~<br/>2016-09-29</td>
+      <td>
+	      VOD 서비스 프레임워크 구성
+	      <UL>
+	      <LI>업무: Backend-Server 개발, Backend-Manager 개발, Frontend-API Server 개발, 상세 설계, UI 시나리오 설계, 개발 리더</LI>
+	      <LI>Libs:C++ MFC, Java, JavaScript, MS-SQL, MySQL, Tiles, Apache Tomcat, Spring MVC, Linux, ODBC, JDBC, Bootstrap, Ajax</LI>
+	      <LI>성과: API 서버 구성 가능,결제 연동, 쿠폰 연동, 인기순위 추천 구성</LI>
+	      </UL>
+	</td>
+    </tr>
+<tr>
+<tr>
+      <td style="text-align:center;font-size:xx-small;">2007-10-17<br/>~<br/>2010-01-20</td>
+      <td>
+	      대용량 서버 로그 Viewer
+	      <UL>
+	      <LI>업무: 원격지 로그 view, 여러파일 동시 open, 대용량 파일 검색</LI>
+	      <LI>Libs: C++ boost, C++ MFC</LI>
+	      <LI>성과: C++ MFC 컴파일/디버깅 가능, File viewer 구성 가능</LI>
+	      </UL>
+	</td>
+    </tr>
+<tr>
+<tr>
+      <td style="text-align:center;font-size:xx-small;">2007-10-17<br/>~<br/>2010-01-20</td>
+      <td>
+	      시스템/서버 모니터링용 subagent 구성
+	      <UL>
+	      <LI>업무: subagent 개발</LI>
+	      <LI>Libs: C++ boost, Net-SNMP, MIBs, MS-SQL, Linux, ODBC</LI>
+	      <LI>성과: 모니터링 시스템 구성 이해, Net-SNMP 프로토콜 사용 가능</LI>
+	      </UL>
+	</td>
+    </tr>
+<tr>
+      <td style="text-align:center;font-size:xx-small;">2007-10-08<br/>~<br/>2011-10-14</td>
       <td>
 	      통계/모니터링용 대용량 로그 수집 프로그램 개발
 	      <UL>
