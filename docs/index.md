@@ -19,33 +19,31 @@
 	<table style="width:100%;">
     <tr>
 	    <th style="width:16%;text-align:center;">Period</th>
-	    <th style="width:20%;text-align:center;">Workplace</th>
+	    <th style="width:22%;text-align:center;">Workplace</th>
 	    <th style="width:30%;text-align:center;">Work Experience</th>
-	    <th style="text-align:center;">Topics</th>
 </tr>
 <tr>
       <td>2007-08-20<br/>~</td>
       <td>(주)캐스트이즈</td>
-      <td>광고 사업부 : 소프트웨어 개발 팀장</td>
-      <td>: C++ boost, MS-SQL, Oracle, SQLite, MySQL, Linux, spring-boot, thymeleaf, maven, requirejs, webjars, Tomcat8.5</td>
+      <td>광고 사업부 : 소프트웨어 개발 팀장<br/>
+	      C++ boost, MS-SQL, Oracle, SQLite, MySQL, Linux, spring-boot, thymeleaf, maven, requirejs, webjars, Tomcat8.5
+	</td>
     </tr>
     <tr>
       <td>2005-06-07<br/>~<br/>2007-08-17</td>
       <td>(주)이레전자산업</td>
-      <td>DTV개발2팀 : 연구원</td>
-      <td>Embedded Linux, C 언어, 펌웨어</td>
+      <td>DTV개발2팀 : 연구원<br/>
+	     Embedded Linux, C 언어, 펌웨어</td>
     </tr>
     <tr>
       <td>2003-03-03<br/>~<br/>2005-02-24</td>
       <td>인하대학교대학원</td>
       <td>전자공학과 : 정보공학전공(석사과정)</td>
-      <td></td>
     </tr>
     <tr>
       <td>1996-03-04<br/>~<br/>2003-02-24</td>
       <td>인하대학교</td>
       <td>전자공학과 : 전자공학전공(학사과정)</td>
-      <td></td>
     </tr>
 	</table>
     </p>
