@@ -12,7 +12,7 @@
 코끼리를 냉장고에 넣으려면, 문여는 동료, 코끼리를 넣는 동료, 문 닫는 동료가 있으면 가능합니다.&nbsp;
 제가 코끼리를 냉장고에 넣는 <font style="color:#900;">신화를 창조하는 믿음직한 당신의 동료</font>가 되어드리겠습니다.
 
-### Work Experience - Summary
+### Work Experience
 <details open>
 	<summary>Summary</summary>
     <p style="font-size:8pt;">
