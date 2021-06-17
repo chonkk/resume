@@ -1,10 +1,7 @@
-{{page.title}}
 
-## Welcome to GitHub Pages
+## 안녕하세요. 천광규입니다.
 
-You can use the [editor on GitHub](https://github.com/chonkk/resume/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+16년차 소프트웨어 개발자입니다.
 
 ### Markdown
 
