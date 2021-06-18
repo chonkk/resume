@@ -5,7 +5,7 @@
 		</tr>
 </table><br/><br/>
 
-## Resume - 2021-06-18 작업중 
+## Resume - 2021-06-19 작업중 
 
 안녕하세요. 16년차 소프트웨어 개발자 천광규입니다.<br/>
 이<font style="color:#900;">세상에 안되는 일은 없다는 신념</font>으로 역경을 이겨내며, 개발에 매진하는 중입니다.<br/>
@@ -76,14 +76,13 @@
 
 <details open>
 	<summary>Work Experience - (주)캐스트이즈</summary>
-    	<p style="font-size:8pt;">
 	<table style="width:100%;font-size:x-small;">
     	<tr>
-	    <th style="text-align:center;width:12%;">Period</th>
+	    <th style="text-align:center;width:23%;">Period</th>
 	    <th style="text-align:center;">Work Experience</th>
 	</tr>
 	<tr>
-      		<td style="text-align:center;font-size:xx-small;"><br/>~<br/>2021-06-07</td>
+      		<td style="text-align:center;font-size:xx-small;width:23%;min-width:min-width:120px;"><br/>~<br/>2021-06-07</td>
       		<td>
 		       [KT/광고] - 수집집계 성능 개선
 		      <UL>
@@ -181,7 +180,6 @@
 		</td>
 	   </tr>
    	</table>
-    </p>
 </details>
 
 <details open>
