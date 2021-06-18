@@ -30,7 +30,8 @@
 	      <UL>
 	      <LI>업무: Backend-WebManager, Frontend-API Server, 결제 연동 Server, 백오피스 솔루션(구매, 상품등록, 상품 전시), 로그 수집/집계, 모니터링, 통계, 리포팅</LI>
 	      <LI>tech stack: springMVC, MySQL, Hibernate, Bootstrap, JSP, spring-boot, Tiles, thymeleaf, maven, Apache Tomcat, C++ boost, MS-SQL, Oracle, SQLite</LI>
-		      <LI>성과: 고객과의 소통이 중요함. <br/>
+		      <LI>성과:<br/> 
+			      고객과의 소통이 중요함. <br/>
 			      최고의 동료와 함께 일하는 것이 프로젝트 성공의 비결<br/>
 			      일정내에 제공되는 고품질의 
 		      </LI>
