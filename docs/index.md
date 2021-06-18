@@ -83,7 +83,7 @@
 	    <th style="text-align:center;">Work Experience</th>
 	</tr>
 	<tr>
-      		<td style="text-align:center;font-size:xx-small;">2021-06-07<br/>~<br/></td>
+      		<td style="text-align:center;font-size:xx-small;"><br/>~<br/>2021-06-07</td>
       		<td>
 		       [KT/광고] - 수집집계 성능 개선
 		      <UL>
@@ -94,19 +94,25 @@
 		</td>
     	</tr>
 	<tr>
-      		<td style="text-align:center;font-size:xx-small;">2021-06-07<br/>~<br/></td>
+      		<td style="text-align:center;font-size:xx-small;"><br/>~<br/>2021-06-07</td>
       		<td>
-		       [KT/광고] - 수집집계 성능 개선
+		       [ABLE/DLIVE] 딜라이브 OTT
 		      <UL>
-		      <LI>업무: </LI>
+		      <LI>업무: PG 결제 연동, 핸드폰 소액 결제, 핸드폰 카드결제,<br/>
+			      토스페이먼츠 카드 결제 연동, 나이스페이 핸드폰 소액 결제 연동,<br/>
+			      회원관리 설계, 본인인증 설계</LI>
 		      <LI>Tech stack:</LI>
-		      <LI>성과: </LI>
+		      <LI>성과: <br/>
+			      시스템 설계, 상세 설계<br/>
+			      시스템간 외부 연동, SMS 전송<br/>
+			      개인정보 암호화, 서버간 연동 암호화
+			</LI>
 		      </UL>
 		</td>
     	</tr>
 	<tr>
 	<tr>
-	      <td style="text-align:center;font-size:xx-small;">2016-03-22<br/>~<br/>2016-08-01</td>
+	      <td style="text-align:center;font-size:xx-small;">2016-08-01<br/>~<br/>2016-03-22</td>
 	      <td>
 	      [공통] ServiceDeployServer Legacy 연관성 제거
 	      <UL>
