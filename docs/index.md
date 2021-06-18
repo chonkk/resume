@@ -36,18 +36,33 @@
     <tr>
       <td style="text-align:center;font-size:xx-small;">2007-08-17<br/>~<br/>2005-06-07</td>
       <td>(주)이레전자산업</td>
-      <td>DTV개발2팀<br/>
-	     Embedded Linux, C, TV Formware, OSD</td>
+	<td>
+		DTV개발2팀<br/>
+		 <UL>
+			<LI>업무: 디지털 TV 펌웨어 커스터 마이징</LI>
+			<LI>tech stack: Embedded Linux, C, TV Formware, OSD</LI>
+			<LI>성과: </LI>
+		</UL>    
+	</td>
     </tr>
     <tr>
       <td style="text-align:center;font-size:xx-small;">2005-02-24<br/>~<br/>2003-03-03</td>
       <td>인하대학교<br/>대학원</td>
-      <td>전자공학과 : 정보공학전공(석사과정)<br/>C++ MFC, DRM, WaterMarking, ImageProcess</td>
+      <td>전자공학과 : 정보공학전공(석사과정)<br/>
+		 <UL>
+			<LI>tech stack: C++ MFC, DRM, WaterMark, ImageProcessing</LI>
+			<LI>논문: 시간 동기화를 사용한 차분 에너지 비디오 워터마킹의 개선</LI>
+		</UL> 
+	    </td>
     </tr>
     <tr>
       <td style="text-align:center;font-size:xx-small;">2003-02-24<br/>~<br/>1996-03-04</td>
       <td>인하대학교</td>
-      <td>전자공학과 : 전자공학전공(학사과정)<br/>C++</td>
+      <td>전자공학과 : 전자공학전공(학사과정)<br/>
+		 <UL>
+			<LI>tech stack: C++</LI>
+		</UL> 
+	    </td>
     </tr>
 	</table>
     </p>
