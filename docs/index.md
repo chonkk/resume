@@ -116,7 +116,7 @@
 	      <LI>성과: 모니터링 시스템 구성 이해, Net-SNMP 프로토콜 사용 가능</LI>
 	      </UL>
 	</td>
-    </tr>
+</tr>
 <tr>
       <td style="text-align:center;font-size:xx-small;">2007-10-08<br/>~<br/>2011-10-14</td>
       <td>
