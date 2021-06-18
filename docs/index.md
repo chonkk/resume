@@ -36,12 +36,6 @@
 		      		springMVC, MySQL, Hibernate, Bootstrap, JSP,<br/> 
 				aven, Apache Tomcat, spring-boot, Tiles,<br/> 
 				thymeleaf, C++ boost, MS-SQL, Oracle, SQLite</LI>
-		      <LI>성과:<br/> 
-			      고객과의 원활한 소통이 프로젝트 성공의 키포인트. <br/>
-			      최고의 동료와 함께 일하는 것이 프로젝트 성공의 비결<br/>
-			      일정내에 제공하는 고품질의 제품 생산을 위한 노력<br/>
-			      품질 향상, 리펙토링, 리뉴얼, 제품 생산성 극대화
-		      </LI>
 	      </UL>
 	</td>
     </tr>
@@ -88,6 +82,18 @@
 	    <th style="text-align:center;width:21%;">Period</th>
 	    <th style="text-align:center;">Work Experience</th>
 </tr>
+<tr>
+      <td style="text-align:center;font-size:xx-small;">2021-06-07<br/>~<br/></td>
+      <td>
+	       [KT/광고] - 수집집계 성능 개선
+	      <UL>
+	      <LI>업무: </LI>
+	      <LI>Libs:</LI>
+	      <LI>성과: </LI>
+	      </UL>
+	</td>
+    </tr>
+<tr>
 <tr>
       <td style="text-align:center;font-size:xx-small;">2016-03-22<br/>~<br/>2016-08-01</td>
       <td>
