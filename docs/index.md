@@ -27,8 +27,8 @@
       <td>(주)캐스트이즈</td>
       <td>
 	      광고사업부,&nbsp;생산지원사업부,&nbsp;감마사업부,&nbsp;A랩,&nbsp;서비스프레임워크팀<br/>
-	      업무: 광고 청약/정산 WebManager, Backend-WebManager, Frontend-API Server, 결제 연동 서버, 구매 서버, 로그 수집/집계, 모니터링, 통계, 리포팅
-	      tech stack: springMVC, MySQL, spring-boot, Tiles, thymeleaf, maven, requirejs, webjars, Apache Tomcat, C++ boost, MS-SQL, Oracle, SQLite
+	      업무: Backend-WebManager, Frontend-API Server, 결제 연동 Server, 백오피스 솔루션(구매, 상품등록, 상품 전시), 로그 수집/집계, 모니터링, 통계, 리포팅
+	      tech stack: springMVC, MySQL, Hibernate, Bootstrap, JSP, spring-boot, Tiles, thymeleaf, maven, Apache Tomcat, C++ boost, MS-SQL, Oracle, SQLite
 	</td>
     </tr>
     <tr>
