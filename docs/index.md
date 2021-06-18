@@ -34,7 +34,7 @@
 				로그 수집/집계, 모니터링, 통계, 리포팅</LI>
 	      		<LI>tech stack: <br/> 
 		      		springMVC, MySQL, Hibernate, Bootstrap, JSP,<br/> 
-				maven, Apache Tomcat, spring-boot, Tiles,<br/> 
+				aven, Apache Tomcat, spring-boot, Tiles,<br/> 
 				thymeleaf, C++ boost, MS-SQL, Oracle, SQLite</LI>
 		      <LI>성과:<br/> 
 			      고객과의 원활한 소통이 프로젝트 성공의 키포인트. <br/>
@@ -179,22 +179,76 @@
     </p>
 </details>
 
+### 자기 소개서
 <details open>
-	<summary> Work Experience - 인하대학교</summary>
+	<summary>모르는 것은 죄가 아니지만, 알려고 하지 않는 것은 죄다.</summary>
     <p style="font-size:8pt;">
-	<table style="width:100%;font-size:x-small;">
-    <tr>
-	    <th style="text-align:center;width:21%;">Period</th>
-	    <th style="text-align:center;">Work Experience</th>
-</tr>
-    <tr>
-      <td style="text-align:center;font-size:xx-small;">2005-02-24<br/>~<br/>2003-03-03</td>
-      <td>전자공학과 : 정보공학전공(석사과정)<br/>C++ MFC, DRM, WaterMarking, ImageProcess</td>
-    </tr>
-    <tr>
-      <td style="text-align:center;font-size:xx-small;">2003-02-24<br/>~<br/>1996-03-04</td>
-      <td>전자공학과 : 전자공학전공(학사과정)<br/>C++</td>
-    </tr>
-	</table>
+
+    </p>
+</details>
+<details open>
+	<summary>열번 듣고, 한번 말한다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>초등학생에게 설명해서, 이해 못 시키면, 잘못 설명한 것이다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>고객은 자기가 원하는 바를 정확히 표현하지 못한다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>오늘의 실패가 내일의 실패를 의미하지는 않는다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>로또에 당첨되려면, 일단 사야 한다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>코끼리도 냉장고에 들어갈 수 있다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>신기술은 신기술일뿐 당황하지 말자.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>내가 모른다고, 남도 모르는건 아니다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>정보 공개는 선택이 아니고, 필수다.</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>내일의 나는 오늘의 내가 만든다.(내일이 없는 것 처럼 오늘을 산다.)</summary>
+    <p style="font-size:8pt;">
+
+    </p>
+</details>
+<details open>
+	<summary>아는 것은 남에게 설명할 수 있어야 아는 것이다.</summary>
+    <p style="font-size:8pt;">
+
     </p>
 </details>
